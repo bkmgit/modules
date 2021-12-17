@@ -3,6 +3,7 @@
 
         // References
         // https://godbolt.org/
+        // https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Learn%20the%20Architecture/Armv8-A%20Instruction%20Set%20Architecture.pdf?revision=818c7869-3849-4e5d-bde2-710e69defb57
         // https://developer.arm.com/documentation/den0024/a/ARMv8-A-Architecture-and-Processors/ARMv8-A-Processor-properties/ARMv8-processors
         // https://cupola.gettysburg.edu/oer/8/
         // https://github.com/d-gaston/armv8-examples
